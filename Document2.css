@@ -1,0 +1,24 @@
+
+body {
+	color: white;
+	background-color: White;
+	text-align: left;
+	font-size:25px;
+	border:5px solid red;
+	padding:15px;
+	height:630px;
+	width:1000px;
+	margin:80px 100px auto 250px;
+	background-image:url("https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcS3u0FzxF_ogBFir5C89iOipDWE_o0QY34adA&usqp=CAU");
+	background-size:cover;
+	}
+.main
+{
+border:5px solid red;
+width:1020px;
+height:490px;
+margin:80px 100px auto auto;
+padding:5px 5px;
+
+	
+}

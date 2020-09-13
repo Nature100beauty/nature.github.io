@@ -1,0 +1,75 @@
+
+body{
+
+    background-image:url("https://scx2.b-cdn.net/gfx/news/hires/2019/2-nature.jpg");
+    background-color:white;
+    background-size:cover;
+	    margin:5px;
+	
+}
+.wrapper {
+float:top ;
+margin:55px auto auto 860px;
+font-size:15px;
+}
+
+ul li
+{
+	display:inline-block;
+	
+}
+
+ul li a
+{
+padding:15px;
+color:white;	
+border:5px solid black;
+text-decoration:none;
+width:150px;
+}
+ul li a:hover
+{
+color:black;
+background-color:white;	
+border:5px solid black;	
+}
+ul li.active a
+{
+color:black;
+background-color:white;	
+}
+article
+{
+ width:13.5%;
+ margin-left:10%;
+ background-color:rgba(255,255,0,.25);
+ color:white;
+ display:block;
+ float:left;
+ text-align:center;
+ padding:25px 50px 0px 50px;
+ margin-top:250px;
+ height:485px;
+ font-size:18px;
+ border-radius:40px 40px 0px 0px;
+ transition:all.5s;
+ 
+}
+article p, article h3{
+	margin-top:10px	
+}
+article:hover
+{
+	background-color:#fff;
+	color:#000;
+	margin-top:200px;
+	
+}
+article i.fas
+{
+	font-size:100px;
+}
+.fas
+{
+	padding:5px;
+}
